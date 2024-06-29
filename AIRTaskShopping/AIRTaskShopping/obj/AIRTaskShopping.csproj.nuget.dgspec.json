@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRTaskShopping\\AIRTaskShopping\\AIRTaskShopping.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRShopping\\AIRTaskShopping\\AIRTaskShopping\\AIRTaskShopping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRTaskShopping\\AIRTaskShopping\\AIRTaskShopping.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRShopping\\AIRTaskShopping\\AIRTaskShopping\\AIRTaskShopping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRTaskShopping\\AIRTaskShopping\\AIRTaskShopping.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRShopping\\AIRTaskShopping\\AIRTaskShopping\\AIRTaskShopping.csproj",
         "projectName": "AIRTaskShopping",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRTaskShopping\\AIRTaskShopping\\AIRTaskShopping.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRShopping\\AIRTaskShopping\\AIRTaskShopping\\AIRTaskShopping.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRTaskShopping\\AIRTaskShopping\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRShopping\\AIRTaskShopping\\AIRTaskShopping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

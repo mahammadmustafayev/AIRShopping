@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D1gQIeVAq2C9pn28vOQbJDMBnVd7jbj0mniCqhHdLkumRp7DwsTNXHpkSWMAxpHUvef1cJ7Wi21qTTMwAiTOsw==",
+  "dgSpecHash": "jiKkILt7qdg0qT20wPRD4MXvPLYYpAlhfwFIMnGOFcUOCVEm08HfGXBPnJYtXUL43QrSMCoqgCUI1kvqqJz9aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRTaskShopping\\AIRTaskShopping\\AIRTaskShopping.csproj",
+  "projectFilePath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\AIRShopping\\AIRTaskShopping\\AIRTaskShopping\\AIRTaskShopping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\musta\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\musta\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

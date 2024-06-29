@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AIRTaskShopping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dc79cba3248c1878a02e84761de45c767b98e58")]
 [assembly: System.Reflection.AssemblyProductAttribute("AIRTaskShopping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AIRTaskShopping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

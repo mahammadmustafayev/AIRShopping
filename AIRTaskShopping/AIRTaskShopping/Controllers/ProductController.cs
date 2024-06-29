@@ -1,6 +1,7 @@
 ﻿using AIRTaskShopping.Data;
 using AIRTaskShopping.Models;
 using AIRTaskShopping.Validations;
+using AIRTaskShopping.Validations.DTOs;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
